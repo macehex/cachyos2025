@@ -1,0 +1,24 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="parole" version="1.0">
+  <property name="subtitles" type="empty">
+    <property name="font" type="string" value="Sans Bold 20"/>
+  </property>
+  <property name="folders" type="empty">
+    <property name="last-used-media" type="string" value="/home/mace/Downloads"/>
+  </property>
+  <property name="window" type="empty">
+    <property name="width" type="int" value="468"/>
+    <property name="height" type="int" value="287"/>
+    <property name="maximized" type="bool" value="true"/>
+  </property>
+  <property name="audio" type="empty">
+    <property name="volume" type="int" value="89"/>
+  </property>
+  <property name="parole" type="empty">
+    <property name="plugins" type="string" value=""/>
+  </property>
+  <property name="video" type="empty">
+    <property name="aspect-ratio" type="string" value="PAROLE_ASPECT_RATIO_AUTO"/>
+  </property>
+</channel>

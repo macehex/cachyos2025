@@ -1,0 +1,48 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "project_panel": {
+    "dock": "right"
+  },
+  "vim_mode": true,
+  "base_keymap": "VSCode",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "theme": {
+    "mode": "system",
+    "light": "Everforest Dark Hard",
+    "dark": "One Dark"
+  },
+  // Vim config
+  "relative_line_numbers": true,
+  // UI Font. Use ".SystemUIFont" to use the default system font (SF Pro on macOS)
+  "ui_font_family": ".SystemUIFont",
+  "ui_font_weight": 400, // Font weight in standard CSS units from 100 to 900.
+  "ui_font_size": 16,
+
+  // Buffer Font - Used by editor buffers
+  "buffer_font_family": "JetBrainsMono Nerd Font", // Font name for editor buffers
+  "buffer_font_size": 16, // Font size for editor buffers
+  "buffer_font_weight": 400, // Font weight in CSS units [100-900]
+  // Line height "comfortable" (1.618), "standard" (1.3) or custom: `{ "custom": 2 }`
+  "buffer_line_height": "comfortable",
+
+  // Terminal Font Settings
+  "terminal": {
+    "font_family": "JetBrainsMono Nerd Font",
+    "font_size": 15,
+    // Terminal line height: comfortable (1.618), standard(1.3) or `{ "custom": 2 }`
+    "line_height": "comfortable"
+  },
+
+  // Agent Panel Font Settings
+  "agent_font_size": 16
+}

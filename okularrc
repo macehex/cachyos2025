@@ -1,0 +1,33 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/README (1).pdf
+File10[$e]=$HOME/Onedrive/SAT/Circles (Medium + Hard Questions).pdf
+File2[$e]=$HOME/Downloads/BDjnbt4-1.pdf
+File3[$e]=$HOME/Downloads/Danh sach sinh viên nhận HBKKHT 2024.2.pdf
+File4[$e]=$HOME/Downloads/QCDTTC2014-1.pdf
+File5[$e]=$HOME/programming/startpage/README.md
+File6[$e]=$HOME/Downloads/print/CamScanner _19-6-2025 19.25_.pdf
+File7[$e]=$HOME/Documents/CTTBK • Survey.pdf
+File8[$e]=$HOME/programming/organization.md
+File9[$e]=$HOME/Downloads/Circles (Medium + Hard Questions).pdf
+Name1[$e]=README (1).pdf
+Name10[$e]=Circles (Medium + Hard Questions).pdf
+Name2[$e]=BDjnbt4-1.pdf
+Name3[$e]=Danh sach sinh viên nhận HBKKHT 2024.2.pdf
+Name4[$e]=QCDTTC2014-1.pdf
+Name5[$e]=README.md
+Name6[$e]=CamScanner _19-6-2025 19.25_.pdf
+Name7[$e]=CTTBK • Survey.pdf
+Name8[$e]=organization.md
+Name9[$e]=Circles (Medium + Hard Questions).pdf
+
+[UiSettings]
+ColorScheme=KvAdaptaDark

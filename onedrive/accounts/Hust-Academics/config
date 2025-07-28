@@ -1,0 +1,6 @@
+sync_dir = "/home/mace/Onedrive"
+skip_dotfiles = "true"
+force_session_upload = "true"
+delay_inotify_processing = "true"
+skip_dir = "|Switch roms|Dataset|AimsProject|Class_notes/.obsidian|SCHOOL/Current_notes/.obsidian"
+
