@@ -2849,3 +2849,336 @@ pages:
 2025-07-28 13:29:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
 2025-07-28 13:29:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'NuPhy Field75 HE ...'.
 2025-07-28 13:29:26 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 14:58:29 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 14:58:30 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 15:13:42 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 15:52:16 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 15:52:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 15:52:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 15:52:19 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 15:52:19 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 15:52:19 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 15:52:21 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item pinned
+2025-07-28 15:52:23 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 15:52:23 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 15:52:23 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 15:52:23 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 15:52:25 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 15:52:36 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 15:52:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 15:52:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 15:52:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 15:52:48 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 15:53:00 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 15:53:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 15:53:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 15:53:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 15:53:02 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 15:53:05 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 15:53:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item pinned
+2025-07-28 15:53:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item unpinned
+2025-07-28 15:53:10 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 16:06:08 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 16:28:11 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 16:28:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 16:28:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 16:28:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 16:28:12 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 16:56:10 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 16:56:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 16:56:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 16:56:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 16:56:13 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 16:59:23 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 16:59:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 16:59:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 16:59:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 16:59:25 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 22:55:46 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 22:55:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item pinned
+2025-07-28 23:01:16 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:01:39 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:01:50 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:02:08 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:02:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-07-28 23:02:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 23:02:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 23:02:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 23:02:13 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 23:02:16 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:02:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-07-28 23:02:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 23:02:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 23:02:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 23:02:17 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 23:02:21 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:02:23 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-07-28 23:02:23 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 23:02:23 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 23:02:23 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 23:02:23 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-28 23:02:25 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:03:29 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:13:17 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-28 23:13:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-28 23:13:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-28 23:13:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-28 23:13:18 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 00:05:21 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 00:05:31 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 00:05:38 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 00:06:00 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 00:06:15 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 00:06:20 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 00:06:29 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 00:48:53 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 00:48:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 00:48:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 00:48:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 00:48:55 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 01:16:39 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 01:16:42 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 01:16:46 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 01:16:48 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 12:43:54 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 12:43:57 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 12:44:04 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 12:44:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 12:44:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 12:44:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 12:44:06 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 12:52:35 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 12:52:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 12:52:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 12:52:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 12:52:40 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:03:37 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:03:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:03:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:03:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:03:40 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:12:30 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:12:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:12:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:12:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:12:32 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:14:28 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:14:56 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:14:57 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:14:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item pinned
+2025-07-29 14:15:00 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:15:20 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:15:22 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:15:22 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:15:23 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:15:23 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:15:42 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:29:04 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:42:47 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:42:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:42:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:42:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:42:50 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:44:44 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:44:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:44:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:44:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:44:49 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:44:58 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:45:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:45:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:45:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:45:00 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:47:27 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:47:29 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:47:29 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:47:29 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:47:29 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:50:20 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:50:22 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:50:22 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:50:22 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:50:22 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:55:28 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:55:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:55:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:55:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:55:33 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:57:12 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:57:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:57:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:57:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:57:16 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-29 14:57:22 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-29 14:57:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-29 14:57:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-29 14:57:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-29 14:57:25 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-30 21:09:46 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 21:09:47 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item pinned
+2025-07-30 22:06:28 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:35:50 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:35:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-30 22:35:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-30 22:35:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-30 22:35:53 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-30 22:36:47 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:46:05 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:46:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-30 22:46:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-30 22:46:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-30 22:46:07 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-30 22:46:23 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:46:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-30 22:46:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-30 22:46:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-30 22:46:24 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-30 22:46:41 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:46:42 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-30 22:46:42 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-30 22:46:42 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-30 22:46:42 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-30 22:46:52 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:46:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-30 22:46:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-30 22:46:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-30 22:46:53 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-30 22:47:04 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:47:05 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-30 22:47:05 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-30 22:47:05 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-30 22:47:05 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-30 22:47:08 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:47:10 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-30 22:47:16 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-30 22:47:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-30 22:47:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-30 22:47:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-30 22:47:17 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-31 11:24:19 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-31 11:24:21 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-31 11:24:21 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-31 11:24:21 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-31 11:24:21 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-31 13:21:36 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-31 13:21:41 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-31 13:21:41 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-31 13:21:41 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-31 13:21:41 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-31 15:18:48 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-31 15:18:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-07-31 15:18:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-07-31 15:18:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-07-31 15:18:50 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-31 16:25:07 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-07-31 16:25:14 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-07-31 16:44:33 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 13:35:10 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 13:35:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-01 13:35:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 13:35:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 13:35:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 13:35:13 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 13:35:13 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 13:35:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-01 13:35:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 13:35:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 13:35:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 13:35:15 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 13:35:17 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 13:35:19 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-01 13:35:20 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 13:35:20 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 13:35:20 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 13:35:20 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 13:35:21 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 13:35:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-01 13:35:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 13:35:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 13:35:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 13:35:24 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 13:35:28 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 13:35:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-01 13:35:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 13:35:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 13:35:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 13:35:31 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 13:35:34 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 13:35:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-01 13:35:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 13:35:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 13:35:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 13:35:36 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 13:50:26 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 13:50:30 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 13:50:30 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 13:50:30 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 13:50:30 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 14:15:35 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 14:15:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 14:15:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 14:15:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 14:15:36 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 16:03:38 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 16:03:40 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 16:03:44 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 17:37:46 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 17:43:25 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 17:43:28 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 18:51:10 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 18:51:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 18:51:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 18:51:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 18:51:12 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 18:51:25 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 18:51:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-01 18:51:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-01 18:51:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-01 18:51:26 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-01 18:53:24 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-01 18:53:34 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-03 15:34:07 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-03 15:37:36 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-03 15:37:39 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-03 15:37:39 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-03 15:37:39 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-03 15:37:39 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-05 20:12:59 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-05 20:13:00 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-05 20:13:13 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-05 20:13:15 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-05 20:13:16 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-05 20:13:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Main window closed.
+2025-08-05 20:13:26 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-05 23:20:57 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-05 23:20:58 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-05 23:21:05 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-05 23:21:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-05 23:21:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-05 23:21:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-05 23:21:11 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-06 16:09:48 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-06 16:09:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-06 16:09:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-06 16:09:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-06 16:09:50 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-06 18:44:06 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-06 18:44:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-06 18:44:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-06 18:44:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-06 18:44:08 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-06 18:47:47 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-06 18:47:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-06 18:47:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-06 18:47:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-06 18:47:48 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-06 18:48:00 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-06 18:48:03 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-06 18:48:03 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-06 18:48:03 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-06 18:48:03 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-06 19:11:48 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-06 19:11:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-06 19:11:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-06 19:11:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-06 19:11:54 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.

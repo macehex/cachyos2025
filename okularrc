@@ -8,26 +8,26 @@ LockSidebar=true
 ShowSidebar=false
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/README (1).pdf
-File10[$e]=$HOME/Onedrive/SAT/Circles (Medium + Hard Questions).pdf
-File2[$e]=$HOME/Downloads/BDjnbt4-1.pdf
-File3[$e]=$HOME/Downloads/Danh sach sinh viên nhận HBKKHT 2024.2.pdf
-File4[$e]=$HOME/Downloads/QCDTTC2014-1.pdf
-File5[$e]=$HOME/programming/startpage/README.md
-File6[$e]=$HOME/Downloads/print/CamScanner _19-6-2025 19.25_.pdf
-File7[$e]=$HOME/Documents/CTTBK • Survey.pdf
-File8[$e]=$HOME/programming/organization.md
-File9[$e]=$HOME/Downloads/Circles (Medium + Hard Questions).pdf
-Name1[$e]=README (1).pdf
-Name10[$e]=Circles (Medium + Hard Questions).pdf
-Name2[$e]=BDjnbt4-1.pdf
-Name3[$e]=Danh sach sinh viên nhận HBKKHT 2024.2.pdf
-Name4[$e]=QCDTTC2014-1.pdf
-Name5[$e]=README.md
-Name6[$e]=CamScanner _19-6-2025 19.25_.pdf
-Name7[$e]=CTTBK • Survey.pdf
-Name8[$e]=organization.md
-Name9[$e]=Circles (Medium + Hard Questions).pdf
+File1[$e]=/run/media/mace/New Volume/TEXTBOOKS/yug/Ôn thi cuối kì/TWP - tổng hợp trắc nghiệm 2.pdf
+File10[$e]=$HOME/Downloads/BFB1_L9_Double_Object_Pronouns_Imperfect_Tense.pdf
+File2[$e]=$HOME/Downloads/sat-practice-test-7-digital.pdf
+File3[$e]=$HOME/Onedrive/SAT/sat-practice-test-7-digital.pdf
+File4[$e]=$HOME/Downloads/sat-practice-test-10-answers.pdf
+File5[$e]=$HOME/Downloads/scoring-sat-practice-test-10-digital.pdf
+File6[$e]=$HOME/Downloads/sat-practice-test-10-answers-digital.pdf
+File7[$e]=$HOME/Onedrive/SAT/sat-practice-test-10-digital.pdf
+File8[$e]=$HOME/Downloads/sat-practice-test-10-answers-digital-1.pdf
+File9[$e]=$HOME/Downloads/BFB1_L6_Indirect_Object_Pronouns_The_Expressions_Il_y_a_and_Cest.pdf
+Name1[$e]=TWP - tổng hợp trắc nghiệm 2.pdf
+Name10[$e]=BFB1_L9_Double_Object_Pronouns_Imperfect_Tense.pdf
+Name2[$e]=sat-practice-test-7-digital.pdf
+Name3[$e]=sat-practice-test-7-digital.pdf
+Name4[$e]=sat-practice-test-10-answers.pdf
+Name5[$e]=scoring-sat-practice-test-10-digital.pdf
+Name6[$e]=sat-practice-test-10-answers-digital.pdf
+Name7[$e]=sat-practice-test-10-digital.pdf
+Name8[$e]=sat-practice-test-10-answers-digital-1.pdf
+Name9[$e]=BFB1_L6_Indirect_Object_Pronouns_The_Expressions_Il_y_a_and_Cest.pdf
 
 [UiSettings]
 ColorScheme=KvAdaptaDark
