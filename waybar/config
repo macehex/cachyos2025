@@ -224,9 +224,11 @@
     },
 
     "clock": {
-        "format": "  {:%H:%M %p   %e %b}",
+        "format": "  {:%H:%M %p  %A %e %b}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "today-format": "<b>{}</b>"
+        "today-format": "<b>{}</b>",
+        "locale": "fr_FR.UTF-8",
+        "on-click": "alacritty -e sh -c 'calcurse'"
     },
 
     "clock#date": {

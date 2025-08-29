@@ -1,0 +1,272 @@
+17:52:52.475: Platform: Wayland
+17:52:52.475: CPU Name: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+17:52:52.475: CPU Speed: 3301.444MHz
+17:52:52.475: Physical Cores: 4, Logical Cores: 8
+17:52:52.475: Physical Memory: 15879MB Total, 1915MB Free
+17:52:52.475: Kernel Version: Linux 6.16.1-2-cachyos
+17:52:52.475: Distribution: "CachyOS Linux" Unknown
+17:52:52.475: Desktop Environment: Hyprland (Hyprland)
+17:52:52.475: Session Type: wayland
+17:52:52.478: Current Date/Time: 2025-08-22, 17:52:52
+17:52:52.478: Browser Hardware Acceleration: true
+17:52:52.478: Qt Version: 6.9.1 (runtime), 6.9.1 (compiled)
+17:52:52.478: Portable mode: false
+17:52:52.538: OBS 31.1.2 (linux)
+17:52:52.538: ---------------------------------
+17:52:52.539: ---------------------------------
+17:52:52.539: audio settings reset:
+17:52:52.539: 	samples per sec: 48000
+17:52:52.539: 	speakers:        2
+17:52:52.539: 	max buffering:   960 milliseconds
+17:52:52.539: 	buffering type:  dynamically increasing
+17:52:52.541: ---------------------------------
+17:52:52.541: Initializing OpenGL...
+17:52:52.541: Using EGL/Wayland
+17:52:52.592: Initialized EGL 1.5
+17:52:52.613: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+17:52:52.613: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.2.0-cachyos1.1, shading language 4.60
+17:52:52.802: ---------------------------------
+17:52:52.802: video settings reset:
+17:52:52.802: 	base resolution:   1920x1080
+17:52:52.802: 	output resolution: 1280x720
+17:52:52.802: 	downscale filter:  Bicubic
+17:52:52.802: 	fps:               30/1
+17:52:52.802: 	format:            NV12
+17:52:52.802: 	YUV mode:          Rec. 709/Partial
+17:52:52.802: NV12 texture support enabled
+17:52:52.802: P010 texture support not available
+17:52:52.810: Audio monitoring device:
+17:52:52.810: 	name: Default
+17:52:52.810: 	id: default
+17:52:52.814: ---------------------------------
+17:52:52.825: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:52:52.834: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:52:52.844: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:52:52.844: Failed to initialize module 'decklink.so'
+17:52:53.077: [pipewire] Available capture sources:
+17:52:53.077: [pipewire]     - Monitor source
+17:52:53.077: [pipewire]     - Window source
+17:52:53.200: VAAPI: API version 1.22
+17:52:53.201: FFmpeg VAAPI H264 encoding supported
+17:52:53.202: FFmpeg VAAPI AV1 encoding not supported
+17:52:53.204: FFmpeg VAAPI HEVC encoding supported
+17:52:53.243: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+17:52:53.243: 
+17:52:53.243: NVENC not supported
+17:52:53.243: Failed to initialize module 'obs-nvenc.so'
+17:52:53.677: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: cannot open shared object file: No such file or directory
+17:52:53.677: 
+17:52:53.677: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+17:52:53.834: ---------------------------------
+17:52:53.834:   Loaded Modules:
+17:52:53.834:     text-freetype2.so
+17:52:53.834:     rtmp-services.so
+17:52:53.834:     obs-x264.so
+17:52:53.834:     obs-webrtc.so
+17:52:53.834:     obs-vst.so
+17:52:53.834:     obs-transitions.so
+17:52:53.834:     obs-qsv11.so
+17:52:53.834:     obs-outputs.so
+17:52:53.834:     obs-libfdk.so
+17:52:53.834:     obs-filters.so
+17:52:53.834:     obs-ffmpeg.so
+17:52:53.834:     linux-v4l2.so
+17:52:53.834:     linux-pulseaudio.so
+17:52:53.834:     linux-pipewire.so
+17:52:53.834:     linux-jack.so
+17:52:53.834:     linux-capture.so
+17:52:53.834:     linux-alsa.so
+17:52:53.834:     image-source.so
+17:52:53.834:     frontend-tools.so
+17:52:53.834:     decklink-output-ui.so
+17:52:53.834:     decklink-captions.so
+17:52:53.834: ---------------------------------
+17:52:53.834: ---------------------------------
+17:52:53.834: Available Encoders:
+17:52:53.834:   Video Encoders:
+17:52:53.834: 	- ffmpeg_svt_av1 (SVT-AV1)
+17:52:53.834: 	- ffmpeg_aom_av1 (AOM AV1)
+17:52:53.834: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+17:52:53.834: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+17:52:53.834: 	- obs_qsv11_v2 (QuickSync H.264)
+17:52:53.834: 	- obs_qsv11_hevc (QuickSync HEVC)
+17:52:53.834: 	- obs_x264 (x264)
+17:52:53.834:   Audio Encoders:
+17:52:53.834: 	- ffmpeg_aac (FFmpeg AAC)
+17:52:53.834: 	- ffmpeg_opus (FFmpeg Opus)
+17:52:53.834: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+17:52:53.834: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+17:52:53.834: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+17:52:53.834: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+17:52:53.834: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+17:52:53.834: 	- libfdk_aac (libfdk AAC)
+17:52:53.834: ==== Startup complete ===============================================
+17:52:53.932: All scene data cleared
+17:52:53.932: ------------------------------------------------
+17:52:53.950: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.7) 15.0.0'
+17:52:53.950: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+17:52:53.951: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+17:52:53.951: [Loaded global audio device]: 'Desktop Audio'
+17:52:53.952: v4l2-input: Start capture from /dev/video0
+17:52:54.051: v4l2-input: Input: 0
+17:52:54.077: v4l2-input: Resolution: 1280x720
+17:52:54.077: v4l2-input: Pixelformat: MJPG
+17:52:54.077: v4l2-input: Linesize: 0 Bytes
+17:52:54.077: v4l2-input: Framerate: 30.00 fps
+17:52:54.079: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+17:52:54.081: Switched to scene 'Scene'
+17:52:54.082: ------------------------------------------------
+17:52:54.082: Loaded scenes:
+17:52:54.082: - scene 'Scene':
+17:52:54.082:     - source: 'Video Capture Device (V4L2) 2' (v4l2_input)
+17:52:54.082: ------------------------------------------------
+17:52:54.249: v4l2-input: /dev/video0: select timed out
+17:52:54.249: v4l2-input: /dev/video0: failed to log status
+17:52:54.524: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+17:52:54.524: 
+17:53:05.152: User Removed source 'Video Capture Device (V4L2) 2' (v4l2_input) from scene 'Scene'
+17:53:05.198: v4l2-input: /dev/video0: Stopped capture after 137 frames
+17:53:11.292: [Media Source 'Media Source']: settings:
+17:53:11.292: 	input:                   
+17:53:11.292: 	input_format:            (null)
+17:53:11.292: 	speed:                   100
+17:53:11.292: 	is_looping:              no
+17:53:11.292: 	is_linear_alpha:         no
+17:53:11.292: 	is_hw_decoding:          no
+17:53:11.292: 	is_clear_on_media_end:   yes
+17:53:11.292: 	restart_on_activate:     yes
+17:53:11.292: 	close_when_inactive:     no
+17:53:11.292: 	full_decode:             no
+17:53:11.292: 	ffmpeg_options:          
+17:53:11.357: User added source 'Media Source' (ffmpeg_source) to scene 'Scene'
+17:53:16.651: User Removed source 'Media Source' (ffmpeg_source) from scene 'Scene'
+17:53:25.377: PipeWire initialized
+17:53:25.383: User added source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) to scene 'Scene'
+17:53:25.449: [pipewire] Screencast session created
+17:53:27.180: [pipewire] Asking for monitor and window
+17:53:27.249: [pipewire] source selected, setting up screencast
+17:53:27.258: [pipewire] Server version: 1.4.7
+17:53:27.258: [pipewire] Library version: 1.4.7
+17:53:27.258: [pipewire] Header version: 1.4.7
+17:53:27.259: [pipewire] Created stream 0x560f3cf4acc0
+17:53:27.259: [pipewire] Stream 0x560f3cf4acc0 state: "connecting" (error: none)
+17:53:27.259: [pipewire] Playing stream 0x560f3cf4acc0
+17:53:27.260: [pipewire] Stream 0x560f3cf4acc0 state: "paused" (error: none)
+17:53:27.312: [pipewire] Negotiated format:
+17:53:27.313: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:53:27.313: [pipewire]     Modifier: 0x0
+17:53:27.313: [pipewire]     Size: 1920x1080
+17:53:27.313: [pipewire]     Framerate: 0/1
+17:53:27.317: [pipewire] Negotiated format:
+17:53:27.317: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:53:27.317: [pipewire]     Modifier: 0x100000000000004
+17:53:27.317: [pipewire]     Size: 1920x1080
+17:53:27.317: [pipewire]     Framerate: 0/1
+17:53:27.328: [pipewire] Stream 0x560f3cf4acc0 state: "streaming" (error: none)
+17:53:27.343: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:53:27.344: [pipewire] Renegotiating stream
+17:53:27.344: [pipewire] Stream 0x560f3cf4acc0 state: "paused" (error: none)
+17:53:27.344: [pipewire] Negotiated format:
+17:53:27.344: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:53:27.344: [pipewire]     Modifier: 0x100000000000004
+17:53:27.344: [pipewire]     Size: 1920x1080
+17:53:27.344: [pipewire]     Framerate: 0/1
+17:53:27.349: [pipewire] Negotiated format:
+17:53:27.349: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:53:27.349: [pipewire]     Modifier: 0x100000000000002
+17:53:27.349: [pipewire]     Size: 1920x1080
+17:53:27.349: [pipewire]     Framerate: 0/1
+17:53:27.361: [pipewire] Stream 0x560f3cf4acc0 state: "streaming" (error: none)
+17:53:36.144: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.7) 15.0.0'
+17:53:36.144: pulse-input: Audio format: float32le, 48000 Hz, 1 channels
+17:53:36.144: pulse-input: Started recording from 'bluez_input.C8:2B:6B:4A:95:49' (default)
+17:53:36.151: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+17:53:45.039: ---------------------------------
+17:53:45.039: [x264 encoder: 'simple_video_stream'] preset: veryfast
+17:53:45.039: [x264 encoder: 'simple_video_stream'] settings:
+17:53:45.039: 	rate_control: CBR
+17:53:45.039: 	bitrate:      2500
+17:53:45.039: 	buffer size:  2500
+17:53:45.039: 	crf:          23
+17:53:45.039: 	fps_num:      30
+17:53:45.039: 	fps_den:      1
+17:53:45.039: 	width:        1280
+17:53:45.039: 	height:       720
+17:53:45.039: 	keyint:       250
+17:53:45.039: 
+17:53:45.047: libfdk_aac encoder created
+17:53:45.047: libfdk_aac bitrate: 160, channels: 2
+17:53:45.153: ==== Recording Start ===============================================
+17:53:45.154: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/mace/2025-08-22 17-53-45.mkv'...
+17:54:35.068: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Audio Input Capture (PulseAudio))
+17:54:35.068: 
+17:57:32.507: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/mace/2025-08-22 17-53-45.mkv' stopped
+17:57:32.507: Output 'simple_file_output': stopping
+17:57:32.507: Output 'simple_file_output': Total frames output: 6792
+17:57:32.507: Output 'simple_file_output': Total drawn frames: 6821
+17:57:32.509: ==== Recording Stop ================================================
+17:57:32.527: libfdk_aac encoder destroyed
+18:00:51.547: Attempted to add Scene without specifying a canvas! Using default canvas instead.
+18:00:51.549: Switched to Preview/Program mode
+18:00:51.549: ------------------------------------------------
+18:00:52.339: Switched to scene 'Scene'
+18:00:52.340: Switched to regular Preview mode
+18:00:52.340: ------------------------------------------------
+18:00:53.403: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:00:53.404: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:01:03.304: The requested buffer size is too big, ignoring
+18:01:03.304: The requested buffer size is too big, ignoring
+18:01:03.305: The requested buffer size is too big, ignoring
+18:01:03.306: The requested buffer size is too big, ignoring
+18:01:37.560: Settings changed (outputs)
+18:01:37.560: ------------------------------------------------
+18:05:44.985: ---------------------------------
+18:05:44.985: [x264 encoder: 'simple_video_stream'] preset: veryfast
+18:05:44.985: [x264 encoder: 'simple_video_stream'] settings:
+18:05:44.985: 	rate_control: CBR
+18:05:44.985: 	bitrate:      2650
+18:05:44.985: 	buffer size:  2650
+18:05:44.985: 	crf:          23
+18:05:44.985: 	fps_num:      30
+18:05:44.985: 	fps_den:      1
+18:05:44.985: 	width:        1280
+18:05:44.985: 	height:       720
+18:05:44.985: 	keyint:       250
+18:05:44.985: 
+18:05:44.992: libfdk_aac encoder created
+18:05:44.992: libfdk_aac bitrate: 160, channels: 2
+18:05:44.993: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+18:05:44.993: 	movflags=frag_keyframe+empty_moov+delay_moov
+18:05:44.994: ==== Recording Start ===============================================
+18:05:44.995: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/mace/Music/Videos/2025-08-22 18-05-44.mp4'...
+18:07:09.602: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/mace/Music/Videos/2025-08-22 18-05-44.mp4' stopped
+18:07:09.603: Output 'simple_file_output': stopping
+18:07:09.603: Output 'simple_file_output': Total frames output: 2511
+18:07:09.603: Output 'simple_file_output': Total drawn frames: 2538
+18:07:09.617: ==== Recording Stop ================================================
+18:07:09.666: libfdk_aac encoder destroyed
+18:08:03.354: ---------------------------------
+18:08:03.354: [x264 encoder: 'simple_video_stream'] preset: veryfast
+18:08:03.354: [x264 encoder: 'simple_video_stream'] settings:
+18:08:03.354: 	rate_control: CBR
+18:08:03.354: 	bitrate:      2650
+18:08:03.354: 	buffer size:  2650
+18:08:03.354: 	crf:          23
+18:08:03.354: 	fps_num:      30
+18:08:03.354: 	fps_den:      1
+18:08:03.354: 	width:        1280
+18:08:03.354: 	height:       720
+18:08:03.354: 	keyint:       250
+18:08:03.354: 
+18:08:03.360: libfdk_aac encoder created
+18:08:03.360: libfdk_aac bitrate: 160, channels: 2
+18:08:03.360: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+18:08:03.360: 	movflags=frag_keyframe+empty_moov+delay_moov
+18:08:03.362: ==== Recording Start ===============================================
+18:08:03.362: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/mace/Music/Videos/2025-08-22 18-08-03.mp4'...
+18:13:51.357: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/mace/Music/Videos/2025-08-22 18-08-03.mp4' stopped
+18:13:51.357: Output 'simple_file_output': stopping
+18:13:51.357: Output 'simple_file_output': Total frames output: 10413
+18:13:51.357: Output 'simple_file_output': Total drawn frames: 10440
+18:13:51.358: ==== Recording Stop ================================================
+18:13:51.368: libfdk_aac encoder destroyed

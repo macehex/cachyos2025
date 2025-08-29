@@ -1,6 +1,6 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 520093700,
+        "prev_ver": 520159234,
         "name": "Desktop Audio",
         "uuid": "55f2e24c-01dc-4e09-a926-cd7f484608f1",
         "id": "pulse_output_capture",
@@ -40,19 +40,19 @@
     "name": "Untitled",
     "sources": [
         {
-            "prev_ver": 520093700,
+            "prev_ver": 520159234,
             "name": "Scene",
             "uuid": "132518f4-c488-4f21-ac30-9eef4552ee98",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 3,
+                "id_counter": 7,
                 "custom_size": false,
                 "items": [
                     {
-                        "name": "Video Capture Device (V4L2) 2",
-                        "source_uuid": "5ee9519e-1657-4cb2-baf8-b1301f000715",
-                        "visible": false,
+                        "name": "Screen Capture (PipeWire)",
+                        "source_uuid": "440d4b33-cc95-4c91-9b90-74bc1788ba58",
+                        "visible": true,
                         "locked": false,
                         "rot": 0.0,
                         "scale_ref": {
@@ -67,7 +67,7 @@
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 3,
+                        "id": 5,
                         "group_item_backup": false,
                         "pos": {
                             "x": 0.0,
@@ -78,12 +78,67 @@
                             "y": -1.0
                         },
                         "scale": {
-                            "x": 1.5,
-                            "y": 1.5
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_rel": {
-                            "x": 1.5,
-                            "y": 1.5
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Audio Input Capture (PulseAudio)",
+                        "source_uuid": "4d0c4a66-f7c5-4d68-b654-d3cf6038dc3f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 7,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "bounds": {
                             "x": 0.0,
@@ -119,24 +174,25 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.3": [],
-                "libobs.hide_scene_item.3": []
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
+                "libobs.show_scene_item.7": [],
+                "libobs.hide_scene_item.7": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093700,
-            "name": "Video Capture Device (V4L2) 2",
-            "uuid": "5ee9519e-1657-4cb2-baf8-b1301f000715",
-            "id": "v4l2_input",
-            "versioned_id": "v4l2_input",
+            "prev_ver": 520159234,
+            "name": "Screen Capture (PipeWire)",
+            "uuid": "440d4b33-cc95-4c91-9b90-74bc1788ba58",
+            "id": "pipewire-screen-capture-source",
+            "versioned_id": "pipewire-screen-capture-source",
             "settings": {
-                "device_id": "/dev/video0",
-                "input": 0,
-                "pixelformat": 1196444237
+                "RestoreToken": ""
             },
             "mixers": 0,
             "sync": 0,
@@ -150,6 +206,35 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 520159234,
+            "name": "Audio Input Capture (PulseAudio)",
+            "uuid": "4d0c4a66-f7c5-4d68-b654-d3cf6038dc3f",
+            "id": "pulse_input_capture",
+            "versioned_id": "pulse_input_capture",
+            "settings": {},
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -182,11 +267,12 @@
     ],
     "transitions": [],
     "saved_projectors": [],
+    "canvases": [],
     "current_transition": "Fade",
     "transition_duration": 300,
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": 0,
+    "scaling_level": -9,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {

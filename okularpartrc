@@ -10,6 +10,10 @@ RenderMode=Paper
 ShellOpenFileInTabs=true
 ttsVoice=English (Caribbean)
 
+[Main View]
+ShowBottomBar=true
+ShowLeftPanel=false
+
 [PageView]
 BackgroundColor=232,220,184
 MouseMode=TextSelect
