@@ -6,7 +6,7 @@
   <property name="pressureMultiplier" value="1"/>
   <property name="zoomGesturesEnabled" value="true"/>
   <property name="selectedToolbar" value="Portrait"/>
-  <property name="lastSavePath" value="/home/mace/Onedrive/TEXTBOOKS/year3/IntrotoMachineLearning/[IT3160E] Intro to AI mogu/FINAL_PRACTICE"/>
+  <property name="lastSavePath" value="/home/mace/Onedrive/TEXTBOOKS/year3/OS/[IT3070E] Operating System mogu"/>
   <property name="lastOpenPath" value="/home/mace/Downloads"/>
   <property name="lastImagePath" value="/usr/share/wallpapers/cachyos-wallpapers"/>
   <property name="edgePanSpeed" value="20"/>
@@ -125,6 +125,7 @@
   <property name="preferredLocale" value=""/>
   <property name="useSpacesForTab" value="false"/>
   <property name="numberOfSpacesForTab" value="4"/>
+  <property name="laserPointerFadeOutTime" value="500"/>
   <property name="stabilizerAveragingMethod" value="2"/>
   <property name="stabilizerPreprocessor" value="0"/>
   <property name="stabilizerBuffersize" value="5"/>
@@ -163,6 +164,9 @@
       <attribute name="eraserMode" type="string" value="none"/>
       <attribute name="size" type="string" value="none"/>
       <attribute name="tool" type="string" value="eraser"/>
+    </data>
+    <data name="left">
+      <attribute name="tool" type="string" value="none"/>
     </data>
     <data name="middle">
       <attribute name="tool" type="string" value="hand"/>
@@ -219,7 +223,7 @@
     <attribute name="count" type="int" value="9"/>
   </data>
   <data name="tools">
-    <attribute name="current" type="string" value="highlighter"/>
+    <attribute name="current" type="string" value="pen"/>
     <data name="drawArrow">
       <attribute name="drawingType" type="string" value="default"/>
     </data>
@@ -247,7 +251,7 @@
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="highlighter">
-      <attribute name="color" type="hex" value="ffdf69ba"/>
+      <attribute name="color" type="hex" value="fff57d26"/>
       <attribute name="drawingType" type="string" value="default"/>
       <attribute name="fill" type="int" value="0"/>
       <attribute name="fillAlpha" type="int" value="128"/>
@@ -256,8 +260,18 @@
     <data name="image">
       <attribute name="drawingType" type="string" value="default"/>
     </data>
+    <data name="laserPointerHighlighter">
+      <attribute name="color" type="hex" value="ffff0000"/>
+      <attribute name="drawingType" type="string" value="default"/>
+      <attribute name="size" type="string" value="MEDIUM"/>
+    </data>
+    <data name="laserPointerPen">
+      <attribute name="color" type="hex" value="ffff0000"/>
+      <attribute name="drawingType" type="string" value="default"/>
+      <attribute name="size" type="string" value="MEDIUM"/>
+    </data>
     <data name="pen">
-      <attribute name="color" type="hex" value="ff1e2326"/>
+      <attribute name="color" type="hex" value="ff002db1"/>
       <attribute name="drawingType" type="string" value="default"/>
       <attribute name="fill" type="int" value="0"/>
       <attribute name="fillAlpha" type="int" value="128"/>

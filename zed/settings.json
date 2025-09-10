@@ -11,7 +11,7 @@
   "agent": {
     "default_model": {
       "provider": "mistral",
-      "model": "codestral-latest"
+      "model": "mistral-large-latest"
     },
     "play_sound_when_agent_done": true
   },

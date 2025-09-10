@@ -1,33 +1,33 @@
 [Desktop Entry]
 FullScreen=false
 shouldShowMenuBarComingFromFullScreen=true
-shouldShowToolBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=false
 
 [General]
 LockSidebar=true
 ShowSidebar=false
 
 [Recent Files]
-File1[$e]=/run/media/mace/New Volume/TEXTBOOKS/yug/Ôn thi cuối kì/TWP - tổng hợp trắc nghiệm 2.pdf
-File10[$e]=$HOME/Downloads/BFB1_L9_Double_Object_Pronouns_Imperfect_Tense.pdf
-File2[$e]=$HOME/Downloads/sat-practice-test-7-digital.pdf
-File3[$e]=$HOME/Onedrive/SAT/sat-practice-test-7-digital.pdf
-File4[$e]=$HOME/Downloads/sat-practice-test-10-answers.pdf
-File5[$e]=$HOME/Downloads/scoring-sat-practice-test-10-digital.pdf
-File6[$e]=$HOME/Downloads/sat-practice-test-10-answers-digital.pdf
-File7[$e]=$HOME/Onedrive/SAT/sat-practice-test-10-digital.pdf
-File8[$e]=$HOME/Downloads/sat-practice-test-10-answers-digital-1.pdf
-File9[$e]=$HOME/Downloads/BFB1_L6_Indirect_Object_Pronouns_The_Expressions_Il_y_a_and_Cest.pdf
-Name1[$e]=TWP - tổng hợp trắc nghiệm 2.pdf
-Name10[$e]=BFB1_L9_Double_Object_Pronouns_Imperfect_Tense.pdf
-Name2[$e]=sat-practice-test-7-digital.pdf
-Name3[$e]=sat-practice-test-7-digital.pdf
-Name4[$e]=sat-practice-test-10-answers.pdf
-Name5[$e]=scoring-sat-practice-test-10-digital.pdf
-Name6[$e]=sat-practice-test-10-answers-digital.pdf
-Name7[$e]=sat-practice-test-10-digital.pdf
-Name8[$e]=sat-practice-test-10-answers-digital-1.pdf
-Name9[$e]=BFB1_L6_Indirect_Object_Pronouns_The_Expressions_Il_y_a_and_Cest.pdf
+File1[$e]=$HOME/Downloads/QMK Configurator.pdf
+File10[$e]=$HOME/Downloads/Phonétique progressive du français - Niveau intermédiaire -- Lucile Charliac, Annie-Claude Motron -- A2-B2, 3, 2017 -- CLE International -- 9782090381672 -- ba300e60ec5bea20d8393eaffb5e850c -- Anna’s Archive.pdf
+File2[$e]=$HOME/Downloads/EdEBJiUZ.pdf
+File3[$e]=$HOME/Downloads/sat-practice-test-8-digital.pdf
+File4[$e]=$HOME/Onedrive/SAT/8/sat-practice-test-8-answers-digital.pdf
+File5[$e]=$HOME/Onedrive/SAT/8/scoring-sat-practice-test-8-digital.pdf
+File6[$e]=$HOME/Onedrive/SAT/8/sat-practice-test-8-digital.pdf
+File7[$e]=$HOME/Downloads/yazi-cheat-sheet.pdf
+File8[$e]=$HOME/Downloads/yazi-cheat-sheet-1.pdf
+File9[$e]=$HOME/Onedrive/TEXTBOOKS/Phân tích phân thức.pdf
+Name1[$e]=QMK Configurator.pdf
+Name10[$e]=Phonétique progressive du français - Niveau intermédiaire -- Lucile Charliac, Annie-Claude Motron -- A2-B2, 3, 2017 -- CLE International -- 9782090381672 -- ba300e60ec5bea20d8393eaffb5e850c -- Anna’s Archive.pdf
+Name2[$e]=EdEBJiUZ.pdf
+Name3[$e]=sat-practice-test-8-digital.pdf
+Name4[$e]=sat-practice-test-8-answers-digital.pdf
+Name5[$e]=scoring-sat-practice-test-8-digital.pdf
+Name6[$e]=sat-practice-test-8-digital.pdf
+Name7[$e]=yazi-cheat-sheet.pdf
+Name8[$e]=yazi-cheat-sheet-1.pdf
+Name9[$e]=Phân tích phân thức.pdf
 
 [UiSettings]
 ColorScheme=KvAdaptaDark

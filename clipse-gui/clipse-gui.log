@@ -3182,3 +3182,895 @@ pages:
 2025-08-06 19:11:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
 2025-08-06 19:11:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
 2025-08-06 19:11:54 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-08 02:17:21 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-08 02:17:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-08 02:17:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-08 02:17:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-08 02:17:24 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-08 02:26:47 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-08 02:26:49 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-08 02:26:53 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-08 11:14:51 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-08 11:14:58 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-08 11:24:07 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-11 16:32:59 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-11 16:33:01 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-11 17:07:56 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-11 17:07:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-11 17:07:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-11 17:07:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-11 17:07:58 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-12 01:15:01 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-12 01:15:03 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-12 01:15:03 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-12 01:15:03 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-12 01:15:03 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-12 01:15:03 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-12 01:48:32 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-12 01:48:34 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-12 01:48:34 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-12 01:48:34 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-12 01:48:34 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-12 01:48:34 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-16 15:18:25 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 15:18:27 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-16 15:18:31 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 15:18:32 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-16 15:18:36 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 15:18:41 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 15:18:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 1
+2025-08-16 15:18:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...'.
+2025-08-16 15:18:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 1
+2025-08-16 15:18:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+
+
+
+
+
+
+
+
+
+
+
+...'.
+2025-08-16 15:18:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 1
+2025-08-16 15:18:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+
+
+
+
+
+...'.
+2025-08-16 15:18:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-16 15:18:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+
+
+
+
+...'.
+2025-08-16 15:18:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-16 15:18:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+
+
+
+...'.
+2025-08-16 15:18:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-16 15:18:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+
+
+
+
+
+
+...'.
+2025-08-16 15:19:01 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-16 15:19:02 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 15:19:09 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 18:42:53 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 18:42:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-16 18:42:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-16 18:42:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-16 18:42:55 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-16 20:28:09 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 20:28:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-16 20:28:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-16 20:28:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-16 20:28:11 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-16 21:14:53 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 21:14:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-16 21:14:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-16 21:14:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-16 21:14:56 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-16 21:15:08 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-16 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-16 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-16 21:15:10 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-16 21:22:49 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-16 21:22:51 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-16 21:22:51 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-16 21:22:51 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-16 21:22:51 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-17 17:31:33 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-17 17:31:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-17 17:31:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-17 17:31:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-17 17:31:36 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-17 17:32:20 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-17 17:32:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-17 17:32:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-17 17:32:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-17 17:32:27 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-17 17:32:43 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-17 17:32:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-17 17:32:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-17 17:32:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-17 17:32:46 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-17 19:48:19 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-17 19:48:21 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-17 19:48:21 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-17 19:48:21 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-17 19:48:21 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-18 03:36:43 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-18 03:36:57 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-18 03:37:03 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-18 03:38:01 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-18 03:38:27 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-18 03:39:01 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-18 03:39:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '- M M
+o o2 Hogu e :
+[Khẩn] Dọn...'.
+2025-08-18 03:39:41 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:41 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Les sons [e], [ε] et [ə] - Pho...'.
+2025-08-18 03:39:44 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:44 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'https://youtu.be/5Y4C3UbaFNQ?s...'.
+2025-08-18 03:39:45 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:45 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '[ɛ̃]...'.
+2025-08-18 03:39:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Les sons [E] et [ε~]...'.
+2025-08-18 03:39:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'ε...'.
+2025-08-18 03:39:47 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:47 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Fin de la L21  + L22 document ...'.
+2025-08-18 03:39:47 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:47 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '/home/mace/Downloads/CS-46367-...'.
+2025-08-18 03:39:47 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:47 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'https://www.youtube.com/?gl=FR...'.
+2025-08-18 03:39:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '✦ Subject: [Urgent] Clean up O...'.
+2025-08-18 03:39:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '<img src="https://cdn.discorda...'.
+2025-08-18 03:39:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:48 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' 1046608507
+...'.
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Timer-less Home Row Mods...'.
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Miryoku...'.
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'myorku...'.
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '/home/mace/programming/github....'.
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:49 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '...'.
+2025-08-18 03:39:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' ...'.
+2025-08-18 03:39:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:50 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' TT(2),
+...'.
+2025-08-18 03:39:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:54 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '    //,-----------------------...'.
+2025-08-18 03:39:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '      //|--------+--------+---...'.
+2025-08-18 03:39:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '      //|--------+--------+---...'.
+2025-08-18 03:39:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:55 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '                              ...'.
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_LCTL...'.
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_PRINT_SCREEN...'.
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'python3 -m pip install --user ...'.
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'combo_t key_combos[COMBO_LENGT...'.
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'enum combo_events {
+    // acu...'.
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'const uint32_t PROGMEM unicode...'.
+2025-08-18 03:39:57 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:57 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'enum unicode_names {
+    // ac...'.
+2025-08-18 03:39:57 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:57 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'enum unicode_names {
+    // ac...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'æ...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'œ...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'enum combo_events {
+    // acu...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'ç to...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '// ----- COMBOS -----
+enum com...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '#include QMK_KEYBOARD_H
+
+
+#def...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '|key1|key2|equal_key|
+|----|--...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '#include QMK_KEYBOARD_H
+
+
+#def...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '  //
+...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '  [_LAYER0] = LAYOUT(
+    //,-...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '    
+...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '                              ...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '          _______, KC_PGDN, SE...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '          _______, DELWORD, KC...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '[_LAYER0] = LAYOUT(...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' [_LAYER0] = LAYOUT(KC_BSPC, K...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '          _______, KC_PGUP, CS...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '      //,---------------------...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' const uint16_t PROGMEM keymap...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '#include QMK_KEYBOARD_H
+
+
+#def...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '/home/mace/programming/github....'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '105672...'.
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:58 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '/home/mace/Music/combo_table.m...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Convert your JSON → keymap.c w...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'qmk json2c your_config.json > ...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '/home/mace/Music/splitkb_halcy...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Hyper...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'HYPER...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'qmk json2c your_config.json > ...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '{
+  "version": 1,
+  "notes": "...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '|key1|key2|equal_key|
+|----|--...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_SLASH...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_BACKSLASH...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_EQUAL...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_MINUS...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '|K|KC_COMM|KC_RIGHT_BRACKET|
+...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_RIGHT_BRACKET...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_LEFT_BRACKET...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'J...'.
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:39:59 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_COMM...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'KC_DOT...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'U...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '|...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'LEFT...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ')...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '||||
+...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '|||
+...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '|!|...'.
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:00 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'enum combos { 
+  A_Q_EXCL,
+  
+...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'EXCL...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '@ Mitchel van Eijsen ESZIEã v ...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'enum combos { 
+  A_Q_TAP_CODE1...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'tap_code16(S(KC_1))...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'enum combos { 
+  A_Q_1,
+  
+};
+...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+YouTube was a game changer. ...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Atlassian token : ATATT3xFfGF0...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+    At the date of the inter...'.
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:01 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Mistral API Zwfm1VTEIqpkCLSSCf...'.
+2025-08-18 03:40:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-18 03:40:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '📷 28911-585777697.png...'.
+2025-08-18 03:40:14 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-18 23:14:35 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-18 23:14:38 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 13:46:23 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 13:46:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-20 13:46:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-20 13:46:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-20 13:46:26 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-20 13:57:45 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 13:57:47 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-20 16:05:35 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 16:40:40 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 16:40:45 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 18:02:24 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 18:22:10 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 18:22:14 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-20 23:42:10 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-20 23:42:12 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 15:22:59 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 15:23:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-21 15:23:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-21 15:23:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-21 15:23:02 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 16:52:23 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 16:52:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-21 16:52:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-21 16:52:24 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-21 16:52:24 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 17:42:32 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 17:42:34 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-21 17:42:34 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-21 17:42:35 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-21 17:42:35 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 20:48:09 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 20:57:45 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 20:58:09 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 20:58:13 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:14:01 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:14:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:14:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'https://ctsv.hust.edu.vn/#/hoa...'.
+2025-08-21 21:14:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:14:06 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Important
+
+Automated user acco...'.
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '📷 43013-001490043.png...'.
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '🌷 Địa điểm: Hội trường C2, Thư...'.
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'https://ctsv.hust.edu.vn/#/hoa...'.
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' Tham gia đội tình nguyện hỗ t...'.
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:14:07 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' 1, Tham gia hoạt động tình ng...'.
+2025-08-21 21:14:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-21 21:14:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-21 21:14:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-21 21:14:33 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 21:14:34 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:14:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-21 21:14:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-21 21:14:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-21 21:14:36 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 21:14:38 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:14:39 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-21 21:14:39 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-21 21:14:39 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-21 21:14:39 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 21:14:43 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '0865409989
+[6:15 PM]
+...'.
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '📷 33418-000810041.png...'.
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+Ted Kaminski
+
+    Author Arch...'.
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Yêu cầu:
+
+    Các bạn có t...'.
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:08 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '📷 37863-851463921.png...'.
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'B1-405...'.
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '757032 - Mạng máy tính - IT308...'.
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161377 - Tính toán khoa học - ...'.
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'D9-305...'.
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:09 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161394 - Lập trình C cơ bản - ...'.
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'B1-207...'.
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161317 - Nguyên lý hệ điều hàn...'.
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'D9-306...'.
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161320 - Mạng máy tính - IT308...'.
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'D9-402...'.
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161349 - Technical Writing and...'.
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'C7-119...'.
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161626 - Nhập môn công nghệ ph...'.
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161626 - Nhập môn công nghệ ph...'.
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:11 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161345 - Chủ nghĩa xã hội khoa...'.
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '161345 - Chủ nghĩa xã hội khoa...'.
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Create Reference Calendars
+
+I ...'.
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '📷 515060-297959083.png...'.
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '<meta http-equiv="content-type...'.
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:12 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' “bucket” for classes, work, o...'.
+2025-08-21 21:15:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+
+...'.
+2025-08-21 21:15:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+
+░▒▓󱜚 mace  …/agentic-helpe...'.
+2025-08-21 21:15:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+
+░▒▓󱜚 mace  …/agentic-helper...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+                             ...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+                             ...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+  ⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+  ⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '  ⣿⣆⠱⣝⡵⣝⢅⠙⣿⢕⢕⢕⢕⢝⣥⢒⠅⣿⣿⣿⡿⣳⣌⠪⡪⣡⢑ ...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+  ⣿⣿⣦⠹⣳⣳⣕⢅⠈⢗⢕⢕⢕⢕⢕⢈⢆⠟⠋⠉⠁⠉⠉⠁⠈⠼⢐...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '  ⢄⠻⣿⣟⠿⠦⠍⠉⣡⣾⣿⣿⣿⣿⣿⣿⢸⣿⣦⠙⣿⣿⣿⣿⣿⣿⣿ ...'.
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:14 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '1 Hz - 310x170 mm (13.92 inche...'.
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'def write_file(working_directo...'.
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'bootdev run b22c58d0-7806-4b70...'.
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '
+├──  calculator
+│   ├──  lo...'.
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' .
+...'.
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:15 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from functions.get_file_conten...'.
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from functions.get_file_conten...'.
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from funetions.get file conten...'.
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '📷 9169-327250658.png...'.
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'y...'.
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:16 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'p...'.
+2025-08-21 21:15:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '....'.
+2025-08-21 21:15:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from functions.get_file_conten...'.
+2025-08-21 21:15:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 's...'.
+2025-08-21 21:15:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:17 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' ➜ cat functions/get_files_con...'.
+2025-08-21 21:15:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: ' .
+├──  calculator
+│   ├── ...'.
+2025-08-21 21:15:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from functions.get_file_conten...'.
+2025-08-21 21:15:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'get_file_content...'.
+2025-08-21 21:15:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:18 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'import get_file_content from f...'.
+2025-08-21 21:15:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:25 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'get_files_info...'.
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from functions.get_files_conte...'.
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from functions.get_file_conten...'.
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from functions.get_file_conten...'.
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'get_files_info ...'.
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '= 10000...'.
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'MAX_FILE_CHARACTERS = 10000
+...'.
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'def get_file_content(working_d...'.
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:26 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'print()
+...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'get_file_content("calculator",...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'get_file_content("calculator",...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'get_file_content("calculator",...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'get_file_content("calculator",...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'print(get_file_content("calcul...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '            else:
+...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '                content_string...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '            get_file_content_s...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '    try:
+        with open(abs...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'f.read(MAX_FILE_CHARACTERS)...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: '                content_string...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'get_file_content_string...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'from functions.get_files_info ...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'MAX_FILE_CHARACTERS...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'import sys
+...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'sys.path.append(os.path.dirnam...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'import os
+from ..config import...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'import sys
+import os
+sys.path....'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'import sys
+import os
+sys.path....'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Option 1: Move config.py to th...'.
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:27 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'setas433jlkfjsf...'.
+2025-08-21 21:15:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'online rain music bar derive c...'.
+2025-08-21 21:15:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'ST3JF9Y9BVP0RMCRRWGG9P3W032SHD...'.
+2025-08-21 21:15:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'JOURNEYBEGINS...'.
+2025-08-21 21:15:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'fcf089f6937a8fb91b5255e1968732...'.
+2025-08-21 21:15:34 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:34 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'hyprctl keyword 'device[synapt...'.
+2025-08-21 21:15:35 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:35 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'hyprctl keyword 'device[synapt...'.
+2025-08-21 21:15:35 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:35 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'AAP3 QTE4 5Z6S M5KQ 6BW1 PYYE ...'.
+2025-08-21 21:15:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Removing item at original index 0
+2025-08-21 21:15:36 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Status Flash: Item removed: 'Generating public/private ed25...'.
+2025-08-21 21:15:39 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:15:55 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:15:58 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 21:16:00 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:16:09 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:16:15 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:16:20 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:16:45 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:16:46 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-21 21:17:36 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:17:44 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 21:17:54 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 23:47:11 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-21 23:47:13 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 14:42:28 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 14:42:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-22 14:42:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-22 14:42:31 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-22 14:42:31 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 15:29:52 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 15:30:00 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 16:42:59 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 16:43:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-22 16:43:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-22 16:43:02 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-22 16:43:02 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 16:43:11 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 16:43:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-22 16:43:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-22 16:43:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-22 16:43:13 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 18:05:46 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 18:15:37 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 18:15:56 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Main window closed.
+2025-08-22 18:15:56 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 19:38:51 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 19:38:57 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 19:40:05 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 19:44:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Main window closed.
+2025-08-22 19:44:40 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 20:50:52 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 20:51:04 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-22 20:51:04 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-22 20:51:04 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-22 20:51:04 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 20:51:06 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 22:36:29 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 22:36:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-22 22:36:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-22 22:36:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-22 22:36:32 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 22:36:36 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 22:36:40 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 22:50:16 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 22:50:19 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-22 22:50:19 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-22 22:50:19 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-22 22:50:19 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-22 23:03:39 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-22 23:03:42 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-22 23:03:42 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-22 23:03:42 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-22 23:03:42 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-23 01:09:23 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-23 01:14:02 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-23 01:14:09 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-23 12:56:08 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-23 12:56:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-23 12:56:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-23 12:56:10 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-23 12:56:10 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-23 12:58:11 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-23 12:58:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-23 12:58:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-23 12:58:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-23 12:58:13 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-23 12:59:03 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-23 12:59:05 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-23 12:59:05 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-23 12:59:05 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-23 12:59:05 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-23 13:07:44 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-23 13:07:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-23 13:07:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-23 13:07:46 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-23 13:07:46 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-23 13:08:11 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-23 13:08:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-23 13:08:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-23 13:08:13 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-23 13:08:13 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-25 14:26:29 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-25 14:26:31 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-25 14:27:26 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-25 14:27:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-25 14:27:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-25 14:27:28 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-25 14:27:28 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-25 14:27:30 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-25 14:27:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-25 14:27:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-25 14:27:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-25 14:27:32 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-26 14:31:59 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-26 14:38:31 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-26 14:38:32 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Image copied successfully.
+2025-08-26 14:38:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-26 14:38:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-26 14:38:33 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-26 14:38:33 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-26 14:53:45 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-26 21:45:38 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-26 21:45:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-26 21:45:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-26 21:45:40 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-26 21:45:40 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-26 21:48:51 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-26 21:48:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-26 21:48:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-26 21:48:53 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-26 21:48:53 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-26 21:50:37 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-26 22:09:37 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-08-26 22:09:38 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation (wtype) command successful.
+2025-08-26 22:09:38 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Paste simulation command successful.
+2025-08-26 22:09:38 - [1;34mclipse_gui.controller[0m - [1;32mINFO[0m - Quitting application.
+2025-08-26 22:09:38 - [1;34m__main__[0m - [1;32mINFO[0m - Application exited with status 0.
+2025-08-27 10:32:00 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-09-01 18:59:44 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized at INFO level. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-09-03 06:36:32 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-09-03 06:36:33 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-09-03 06:36:33 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-09-03 06:36:33 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 06:36:33 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-09-03 06:36:33 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 06:36:33 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/mace/.config/clipse/clipboard_history.json every 300ms
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-09-03 06:36:33 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2025-09-03 06:36:33 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2025-09-03 06:36:37 - clipse_gui.controller - DEBUG - Scheduling load more: rows 50 to 69
+2025-09-03 06:36:37 - clipse_gui.controller - DEBUG - Executing load more: rows 50 to 69
+2025-09-03 06:36:37 - clipse_gui.controller - DEBUG - Creating rows from filtered index 50 to 69
+2025-09-03 06:36:37 - clipse_gui.controller - DEBUG - Scheduling load more: rows 70 to 89
+2025-09-03 06:36:37 - clipse_gui.controller - DEBUG - Executing load more: rows 70 to 89
+2025-09-03 06:36:37 - clipse_gui.controller - DEBUG - Creating rows from filtered index 70 to 89
+2025-09-03 06:37:01 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-09-03 06:37:01 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-09-03 06:37:01 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 07:42:37 - clipse_gui.data_manager - DEBUG - History file change detected (/home/mace/.config/clipse/clipboard_history.json). Reloading...
+2025-09-03 07:42:37 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 07:42:37 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-09-03 07:42:37 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-03 07:42:37 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-03 07:48:08 - clipse_gui.data_manager - DEBUG - History file change detected (/home/mace/.config/clipse/clipboard_history.json). Reloading...
+2025-09-03 07:48:08 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 07:48:08 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-09-03 07:48:08 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-03 07:48:08 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-03 07:51:53 - clipse_gui.data_manager - DEBUG - History file change detected (/home/mace/.config/clipse/clipboard_history.json). Reloading...
+2025-09-03 07:51:53 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 07:51:53 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-09-03 07:51:53 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-03 07:51:53 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-03 07:51:58 - clipse_gui.data_manager - DEBUG - History file change detected (/home/mace/.config/clipse/clipboard_history.json). Reloading...
+2025-09-03 07:51:58 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 07:51:58 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-09-03 07:51:58 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-03 07:51:58 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-03 07:55:47 - clipse_gui.data_manager - DEBUG - History file change detected (/home/mace/.config/clipse/clipboard_history.json). Reloading...
+2025-09-03 07:55:47 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 07:55:47 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-09-03 07:55:47 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-03 07:55:47 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-03 08:00:59 - clipse_gui.data_manager - DEBUG - History file change detected (/home/mace/.config/clipse/clipboard_history.json). Reloading...
+2025-09-03 08:00:59 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 08:00:59 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-09-03 08:00:59 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-03 08:00:59 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-03 08:14:40 - clipse_gui.data_manager - DEBUG - History file change detected (/home/mace/.config/clipse/clipboard_history.json). Reloading...
+2025-09-03 08:14:40 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-03 08:14:40 - clipse_gui.controller - DEBUG - Received history update signal from DataManager.
+2025-09-03 08:14:40 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-03 08:14:40 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-10 13:57:55 - [1;34m__main__[0m - [1;32mINFO[0m - Logging initialized - Console: INFO, File: DEBUG. Log file: /home/mace/.config/clipse-gui/clipse-gui.log
+2025-09-10 13:57:55 - clipse_gui.app - DEBUG - Application org.d7om.ClipseGUI starting up.
+2025-09-10 13:57:55 - clipse_gui.app - DEBUG - Activating application - creating main window.
+2025-09-10 13:57:55 - clipse_gui.controller - DEBUG - Detected session type: Wayland
+2025-09-10 13:57:55 - clipse_gui.data_manager - DEBUG - DataManager initialized with history file: /home/mace/.config/clipse/clipboard_history.json
+2025-09-10 13:57:55 - clipse_gui.ui_builder - DEBUG - Building main window UI content.
+2025-09-10 13:57:55 - clipse_gui.controller - DEBUG - Connecting signals.
+2025-09-10 13:57:55 - clipse_gui.controller - DEBUG - Creating and adding application CSS provider.
+2025-09-10 13:57:55 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json
+2025-09-10 13:57:55 - clipse_gui.data_manager - DEBUG - Starting history watcher for /home/mace/.config/clipse/clipboard_history.json every 300ms
+2025-09-10 13:57:55 - clipse_gui.controller - DEBUG - Zoom updated to 1.00
+2025-09-10 13:57:55 - clipse_gui.controller - DEBUG - Populating initial 0 rows.
+2025-09-10 13:57:55 - clipse_gui.app - DEBUG - Main window created and shown.
+2025-09-10 13:57:55 - clipse_gui.controller - DEBUG - Populating initial 30 rows.
+2025-09-10 13:57:55 - clipse_gui.controller - DEBUG - Creating rows from filtered index 0 to 29
+2025-09-10 13:57:56 - clipse_gui.controller - DEBUG - Scheduling load more: rows 30 to 49
+2025-09-10 13:57:56 - clipse_gui.controller - DEBUG - Executing load more: rows 30 to 49
+2025-09-10 13:57:56 - clipse_gui.controller - DEBUG - Creating rows from filtered index 30 to 49
+2025-09-10 13:57:58 - clipse_gui.tray_manager - DEBUG - AppIndicator created and set to ACTIVE
+2025-09-10 13:57:58 - clipse_gui.tray_manager - DEBUG - Showing tray icon
+2025-09-10 13:57:58 - clipse_gui.data_manager - DEBUG - Loaded 100 items from /home/mace/.config/clipse/clipboard_history.json

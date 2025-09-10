@@ -24,4 +24,13 @@ return {
 
     -- see below for full list of options 👇
   },
+
+  {
+    "mfussenegger/nvim-lint",
+    opts = {
+      linters_by_ft = {
+        markdown = {}, -- Empty table disables all linters for markdown files
+      },
+    },
+  },
 }
